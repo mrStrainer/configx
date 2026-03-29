@@ -1,0 +1,22 @@
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+
+# Build output
+bin/
+dist/
+
+# Coverage
+*.out
+coverage.out
+
+# Local env files
+.env
+.env.*
+
+# OS/editor noise
+.DS_Store
